@@ -13,7 +13,6 @@ Here are some details about me and my profile on GitHub:
 
 👋 Hello, I'm Uğur👨🏻‍💻 I'm 27 years old. 
 👀 I'm working on Html, CSS, Bootstrag, Javascript, TypeScript and Angular with front-end
-🌱 I'm learning Java 
 👀 I'm reviewing Python libraries in my spare time
 📫 How to reach me:meydanliugur@gmail.com
 
