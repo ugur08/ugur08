@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/hasansaid?style=flat&logo=github)](https://github.com/hasansaid?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/hasansaid?style=flat&logo=github&)](https://github.com/hasansaid?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/ugur08?style=flat&logo=github)](https://github.com/ugur08?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/ugur08?style=flat&logo=github&)](https://github.com/ugur08?tab=repositories)
 
 
 <hr>
